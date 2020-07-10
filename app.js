@@ -1,5 +1,6 @@
 const express = require('express');
 const checklistRouter = require('./scr/routers/checklist');
+require('./config/database')
 
 const app =  express();
 
