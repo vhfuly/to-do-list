@@ -1,7 +1,7 @@
-<h3 align="center">
+<h1 align="center">
     <b>Lista de Tarefas</b>  
     <br>
-</h3>
+</h1>
 
 
 
@@ -20,6 +20,7 @@ A <strong>lista de tarefas/strong> é uma aplicação Web para ajudar pessoas a 
 
 Essa aplicação foi construída no curso  <strong>Programador Full Stack JavaScript</strong> distribuída pela [One Bit Code](https://onebitcode.com/). A idea da aplicação é o estudo pratico do Backend. 
 
+<a id="tecnologias-utilizadas"></a>
 
 ## :rocket: Tecnologias Utilizadas
 
