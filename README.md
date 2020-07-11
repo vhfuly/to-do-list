@@ -28,7 +28,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 
 - [Node.js](https://nodejs.org/en/)
-- [MongoD B](https://www.mongodb.com/)
+- [Mongo DB](https://www.mongodb.com/)
 
 
 
