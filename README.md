@@ -16,7 +16,7 @@
 
 ## :bookmark: Sobre
 
-A <strong>lista de tarefas/strong> é uma aplicação Web para ajudar pessoas a organizar suas tarefas diarias.
+A <strong>lista de tarefas</strong> é uma aplicação Web para ajudar pessoas a organizar suas tarefas diarias.
 
 Essa aplicação foi construída no curso  <strong>Programador Full Stack JavaScript</strong> distribuída pela [One Bit Code](https://onebitcode.com/). A idea da aplicação é o estudo pratico do Backend. 
 
