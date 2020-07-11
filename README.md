@@ -59,7 +59,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
   # Inicie a aplicação.
   $ npm run dev
-
+```
 
 <h4 align="center">
     Feito com 💜 by <a href="https://www.linkedin.com/in/victor-hugo-silva-fuly-aa8a09129/" target="_blank">Victor Fuly</a>
