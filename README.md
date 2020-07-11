@@ -38,7 +38,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - ### **Pré-requisitos**
 
-  - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** instalado na máquina
+  - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** e **[Mongo DB](https://www.mongodb.com/)** instalados na máquina
   - Também, é **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
 
 
